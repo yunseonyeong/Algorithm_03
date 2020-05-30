@@ -1,13 +1,21 @@
 # Algorithm_03
-model 1 (3 layers) success images
-![model1_success](https://user-images.githubusercontent.com/64634970/83333744-24608980-a2dd-11ea-93bd-6c7389d1b358.PNG)
-model 1(3 layers) failure images
-![model1_fail](https://user-images.githubusercontent.com/64634970/83333746-262a4d00-a2dd-11ea-90c3-ed252e73b9b7.PNG)
-model 2(5 layers) success images
-![model2](https://user-images.githubusercontent.com/64634970/83333747-26c2e380-a2dd-11ea-8f90-473efc4ddeff.PNG)
-model 2(5 layers) failure images
-![model2_wrong](https://user-images.githubusercontent.com/64634970/83333748-275b7a00-a2dd-11ea-8282-5c38c3c4c010.PNG)
-model 3(7 layers) success images
-![model3 success](https://user-images.githubusercontent.com/64634970/83333750-288ca700-a2dd-11ea-8d9d-8635f185950c.PNG)
-model 3(7 layers) failure images
-![model3 fail](https://user-images.githubusercontent.com/64634970/83333752-29253d80-a2dd-11ea-9cb8-82d03bbe7c11.PNG)
+Models
+![model 1,2,3 intro](https://user-images.githubusercontent.com/64634970/83334635-d2bafd80-a2e2-11ea-9311-5625885ed8f3.PNG)
+Model 1 training
+![model1 trainingstep](https://user-images.githubusercontent.com/64634970/83334641-da7aa200-a2e2-11ea-8fad-f4f7e106f01a.PNG)
+Model 1 accuracy
+![model1 testaccuracy](https://user-images.githubusercontent.com/64634970/83334642-dbabcf00-a2e2-11ea-8b98-298cfb589628.PNG)
+Model 1 Images and corresponding probability that predicted Right
+![model1_success](https://user-images.githubusercontent.com/64634970/83334664-0138d880-a2e3-11ea-994d-67b6eae45e30.PNG)
+Model 1 Images and corresponding probability that predicted Wrong
+![model1_fail](https://user-images.githubusercontent.com/64634970/83334661-fa11ca80-a2e2-11ea-96e9-97241f24fa74.PNG)
+Model 2 training
+![model2 training](https://user-images.githubusercontent.com/64634970/83334670-0c8c0400-a2e3-11ea-98fb-7f1a1be4a745.PNG)
+Model 2 
+![model2](https://user-images.githubusercontent.com/64634970/83334672-1281e500-a2e3-11ea-896f-785a86de1e06.PNG)
+![model2_wrong](https://user-images.githubusercontent.com/64634970/83334677-1ada2000-a2e3-11ea-80e2-a4c579cfe573.PNG)
+![model3 training](https://user-images.githubusercontent.com/64634970/83334678-1f9ed400-a2e3-11ea-9457-5800acc2cab2.PNG)
+![model3 accuracy](https://user-images.githubusercontent.com/64634970/83334681-22012e00-a2e3-11ea-8aa7-45d9017d02b7.PNG)
+![model3 success](https://user-images.githubusercontent.com/64634970/83334691-2fb6b380-a2e3-11ea-9877-5f008664b2e3.PNG)
+![model3 fail](https://user-images.githubusercontent.com/64634970/83334693-32190d80-a2e3-11ea-8186-038372ea976d.PNG)
+
